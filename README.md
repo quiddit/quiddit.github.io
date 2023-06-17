@@ -1,2 +1,2 @@
-# quiddit.github.io
-personal useage
+# A web page of *quiddite*
+for personal useage
